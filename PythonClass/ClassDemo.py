@@ -1,7 +1,7 @@
 import re
 import time
 
-class Employee:
+class Employee: 
     def __init__(self,empId,empName,empValidPhone,empValidEmail):
         self.empId = empId
         self.empName = empName
